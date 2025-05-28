@@ -1,0 +1,9 @@
+Desk Checking
+
+Tujuan:
+- Menelusuri kode secara manual tanpa eksekusi aktual untuk menemukan kesalahan.
+
+Langkah-langkah:
+1. Review logika dan struktur kode.
+2. Telusuri alur program menggunakan contoh nilai input.
+3. Dokumentasikan temuan dan saran perbaikan.
