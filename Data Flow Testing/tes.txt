@@ -1,0 +1,10 @@
+Data Flow Testing - Loop Testing
+
+Tujuan:
+- Memastikan loop dalam kode berjalan sebagaimana mestinya.
+- Menghindari kesalahan seperti infinite loop atau kondisi keluar yang salah.
+
+Langkah-langkah:
+1. Identifikasi semua struktur loop dalam kode.
+2. Uji dengan nilai batas (nol, satu, banyak iterasi).
+3. Observasi hasil eksekusi.
