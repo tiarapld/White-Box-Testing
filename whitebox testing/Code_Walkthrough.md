@@ -4,7 +4,7 @@
 Melakukan review kode login Cafe App bersama tim teknis.
 
 ## Tim Reviewer  
-- Arya Abdul Mughni (20221310001)  
+- Miftah Rizkia Aldira (20221310025)  
 - Abdul Aziz Nurahmat (20221310019)  
 - Iqbal Yudiana (20221310020)  
 - Tiara Putri Latifani Dianata (20221310086)  
@@ -25,7 +25,7 @@ Melakukan review kode login Cafe App bersama tim teknis.
 
 | No | Nama Anggota                 | NIM         | Tugas Pengujian                                                                        |
 |----|-----------------------------|-------------|----------------------------------------------------------------------------------------|
-| 1  | Arya Abdul Mughni            | 20221310001 |                                                                                        |
-| 2  | Abdul Aziz Nurahmat          | 20221310019 |                                                                                        |
+| 1  | Miftah Rizkia Aldira        | 20221310025 |                                                                                        |
+| 2  | Abdul Aziz Nurahmat         | 20221310019 |                                                                                        |
 | 3  | Iqbal Yudiana               | 20221310020 |                                                                                        |
-| 4  | Tiara Putri Latifani Dianata | 20221310086 | ✅ Data Flow Testing<br>✅ Desk Checking<br>✅ Code Walkthrough<br>✅ Control Flow Testing |
+| 4  | Tiara Putri Latifani Dianata| 20221310086 | ✅ Data Flow Testing<br>✅ Desk Checking<br>✅ Code Walkthrough<br>✅ Control Flow Testing |
